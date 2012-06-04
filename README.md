@@ -1,2 +1,1 @@
-rjs1
-====
+r.js project that breaks in requirejs 2.0.1.

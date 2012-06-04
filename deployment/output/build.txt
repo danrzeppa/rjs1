@@ -1,0 +1,5 @@
+
+index.js
+----------------
+shared/requirejs/domReady.js
+index.js

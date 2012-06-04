@@ -1,0 +1,5 @@
+#ignore .DS_Store files on OSX
+.DS_Store
+
+#ignore the jetbrains project directories, the * on the end, eliminates any backups we have made
+.idea*
